@@ -1,5 +1,5 @@
 //GoogleMaps// 
-var mapCanvas = document.querySelector(".contacts .contacts__map");
+var mapCanvas = document.querySelector(".contacts__map");
 function initialize() {     
 	var centerMap = new google.maps.LatLng(59.939870, 30.318591);
 	var initZoom = 16;
